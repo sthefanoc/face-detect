@@ -2,7 +2,7 @@
   "name": "face_recognition_app",
   "version": "0.1.0",
   "engines": {
-    "yarn": "1.x"
+    "yarn": "1.22.0"
   },
   "private": true,
   "dependencies": {
