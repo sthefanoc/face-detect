@@ -1,4 +1,5 @@
 {
+  "homepage": "https://face-smartbrain.herokuapp.com/",
   "name": "face_recognition_app",
   "version": "0.1.0",
   "private": true,
